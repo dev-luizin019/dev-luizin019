@@ -1,7 +1,7 @@
 # Olá, eu sou Luiz Simoso 👋
 
 ### **Full Stack Developer | Node.js • TypeScript • React • PostgreSQL**
-*Graduando em Ciência da Computação | Focado em arquitetura escalável e sistemas em produção*
+*Graduando em Ciência da Computação | Desenvolvendo projetos autônomos*
 ---
 
 ### 🚀 Sobre mim
