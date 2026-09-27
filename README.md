@@ -13,11 +13,13 @@
 - 📚 **Formação:** Formado em Informática para internet.
 - 📚 **Fundamentos Contínuos:** Cursando Ciência da Computação para aprofundar estruturas de dados, concorrência e boas práticas de arquitetura.
 
-###Projetos próprios
-**CodeFit**
-https://codefitness.tech/
-**I see replay**
-https://iseereplay.com/
+### 💼 Projetos Próprios
+
+- **[CodeFit](https://codefitness.tech/)**  
+  Plataforma SaaS voltada para gestão e acompanhamento fitness.
+
+- **[I see replay](https://iseereplay.com/)**  
+  Sistema de replay e captura de lances em vídeo para arenas esportivas.
 
 ---
 
@@ -29,18 +31,21 @@ https://iseereplay.com/
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **Frontend**  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
 
 **DevOps & Ferramentas**  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ---
 
 ### 💼 Principais Projetos & Entregas
@@ -48,15 +53,6 @@ https://iseereplay.com/
 - **SaaS de Gestão / Plataforma Web:** Sistema completo desenvolvido com arquitetura full stack em Node.js, TypeScript e React, utilizando PostgreSQL e Prisma para persistência de dados.
 - **Micro-serviços & APIs RESTful:** Backends estruturados com rotas protegidas, validações de schema e boas práticas de autenticação.
 - **Aplicações com Infraestrutura Própria:** Deploys realizados em ambientes Linux (VPS), orquestrados com Nginx como reverse proxy e certificados SSL.
-
----
-
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=dev-luizin019&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-luizin019&layout=compact&theme=tokyonight"/>
-</div>
 
 ---
 
