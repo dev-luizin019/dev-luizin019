@@ -5,9 +5,9 @@
 ---
  <div align="center">
   
-  [![LinkedIn](https://shields.io)](https://www.linkedin.com/in/luiz-simoso-4156b9199)
-  [![Instagram](https://shields.io)](https://www.instagram.com/euluizin019)
-  [![Outlook](https://shields.io)](mailto:luiz.simoso@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luiz-simoso-4156b9199))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luiz.simoso@outlook.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](http://instagram.com/euluizin019/)
 
 </div>
 
@@ -66,5 +66,5 @@
 
 ### 📬 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luiz-simoso-4156b9199))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luiz-simoso-4156b9199)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luiz.simoso@outlook.com)
