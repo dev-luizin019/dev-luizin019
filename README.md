@@ -3,9 +3,14 @@
 ### **Full Stack Developer | Node.js • TypeScript • React • PostgreSQL**
 *Graduando em Ciência da Computação | Desenvolvendo projetos autônomos*
 ---
-  [![LinkedIn](https://shields.io)](https://linkedin.com](https://www.linkedin.com/in/luiz-simoso-4156b9199)
-  [![Instagram](https://shields.io)](https://instagram.com](https://www.instagram.com/euluizin019)
-  [![Gmail](https://shields.io)](mailto:luiz.simoso@outlook.com)
+ <div align="center">
+  
+  [![LinkedIn](https://shields.io)](https://www.linkedin.com/in/luiz-simoso-4156b9199)
+  [![Instagram](https://shields.io)](https://www.instagram.com/euluizin019)
+  [![Outlook](https://shields.io)](mailto:luiz.simoso@outlook.com)
+
+</div>
+
 ---
 ### 🚀 Sobre mim
 
